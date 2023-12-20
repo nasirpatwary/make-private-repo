@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eea9",
+        "name": "Caeser Salad",
+        "recipe": "Lettuce, Eggs, Parmesan Cheese, Chicken Breast Fillets..",
+        "image": "https://i.ibb.co/CHg9mGF/slide1.jpg",
+        "category": "add to cart",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea9",
+        "name": "Caeser Salad",
+        "recipe": "Lettuce, Eggs, Parmesan Cheese, Chicken Breast Fillets..",
+        "image": "https://i.ibb.co/CHg9mGF/slide1.jpg",
+        "category": "add to cart",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea9",
+        "name": "Caeser Salad",
+        "recipe": "Lettuce, Eggs, Parmesan Cheese, Chicken Breast Fillets..",
+        "image": "https://i.ibb.co/CHg9mGF/slide1.jpg",
+        "category": "add to cart",
+        "price": 9.5
+    }
+]
